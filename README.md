@@ -36,7 +36,8 @@ These results indicate that the model performs well in classifying breast tumors
 2. Make sure you have the necessary libraries installed (numpy, pandas, scikit-learn).
 3. Ensure the Cancer_Data.csv file is in the correct directory (or update the file path in the code).
 4. Run the Python script or Jupyter Notebook containing the code.
+
 **Dependencies**
-2. numpy
-3. pandas
-4. scikit-learn
+1. numpy
+2. pandas
+3. scikit-learn
