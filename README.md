@@ -10,6 +10,7 @@ The goal of this project is to build a reliable machine learning model that can 
 The project utilizes the PIMA Breast Cancer Dataset, which contains features computed from digitized images of fine needle aspirate (FNA) of a breast mass. The features describe characteristics of the cell nuclei present in the image.
 
 Source: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+
 Columns: The dataset includes various features such as radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension, calculated for the mean, standard error, and "worst" or largest mean values of each characteristic. The diagnosis column indicates whether the tumor is benign (B) or malignant (M).
 Shape: The dataset contains 569 samples and 33 features (including the ID and diagnosis columns).
 
