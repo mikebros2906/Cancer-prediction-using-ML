@@ -29,6 +29,7 @@ The trained SVM model achieved the following accuracy scores:
 
 1. Training Data Accuracy: 98.9010989010989 %
 2. Testing Data Accuracy: 96.49122807017544 %
+
 These results indicate that the model performs well in classifying breast tumors based on the provided features.
 
 **How to Run**
